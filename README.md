@@ -1,6 +1,6 @@
 # ruby-scripting-example
 
-This is a brief example of the basics of Ruby scripting and how everything works together. Also included is an example in Javascript that shows how the same tasks is accomplished in a different language.
+This is a brief example of the basics of Ruby scripting and how everything works together. Also included is an example in Javascript that shows how the same tasks are accomplished in a different language.
 
 The "lib" folder will contain all of your classes and other business logic, and your "spec" folder will contain your tests for everything in you lib folder.
 
