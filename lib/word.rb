@@ -1,7 +1,4 @@
 class Word
-  
-
-
   # intizalize is what gets ran when your object is created
   def initialize(string)
     # @ defines the instance variable. Think of it the same this.string in JS
